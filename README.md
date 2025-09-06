@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Netsai
+sai
+kai
+
 <!--
 **Netsai28/Netsai28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
